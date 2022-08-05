@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HuUHAooeAK8zDkMjyUFL4P8rsZEQlBkrRhoWiVF/LZDvjKaMKQWZshkVeKTpOpVlB+W3WgHRZQwMOvWWv/I4bg==",
+  "dgSpecHash": "lqmpJg503mk9XGPMnnIeXlCXFNmEXahf7oB8GVAFbARiyn2STut13Mx+COZoWzB8gzCXd+eMULXmEmPFIvnr6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
+  "projectFilePath": "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmdpd\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\rmdpd\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

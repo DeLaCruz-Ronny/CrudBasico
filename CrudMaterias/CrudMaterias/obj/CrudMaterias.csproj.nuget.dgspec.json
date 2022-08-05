@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj": {}
+    "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj": {
+    "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
+        "projectUniqueName": "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
         "projectName": "CrudMaterias",
-        "projectPath": "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
+        "projectPath": "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\CrudMaterias.csproj",
         "packagesPath": "C:\\Users\\rmdpd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rmdpd\\Desktop\\CrudMaterias\\CrudMaterias\\obj\\",
+        "outputPath": "C:\\Users\\rmdpd\\Desktop\\CrudBasico\\CrudMaterias\\CrudMaterias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
